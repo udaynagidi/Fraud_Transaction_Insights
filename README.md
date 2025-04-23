@@ -50,3 +50,4 @@ It simulates real-world banking activity and is suitable for binary classificati
 
 ---
 This project was created to support fraud detection initiatives through visual analysis and improve financial risk awareness using business intelligence tools.
+image [https://github.com/udaynagidi/Fraud_Transaction_Insights/blob/1c67d4c2998e440b061b2a030b75e8a2cb68bfbf/Fraudulent%20Transactions%20Dashboard%20Preview.png]
